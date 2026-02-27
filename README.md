@@ -1,7 +1,7 @@
 # 🏔️ EverWrestle
 
 [![Engine](https://img.shields.io/badge/Engine-Unreal%20Engine-478cbf)](https://www.unrealengine.com/de)
-[![Role](https://img.shields.io/badge/Role-Game%20Engineer-blue)](https://www.jannikkluge.com/#/about)
+[![Role](https://img.shields.io/badge/Role-Lead%20Game%20Engineer_&_CoProducer-blue)](https://www.jannikkluge.com/#/about)
 [![Language](https://img.shields.io/badge/Language-Cpp_&_BP-355570)](https://cplusplus.com)
 [![Project](https://img.shields.io/badge/Project-Playable%20on%20itch.io-orange)](https://s4g.itch.io/everwrestle)
 
