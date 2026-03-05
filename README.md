@@ -1,4 +1,4 @@
-# 🏔️ EverWrestle
+## 🏔️ EverWrestle
 
 [![Engine](https://img.shields.io/badge/Engine-Unreal%20Engine-478cbf)](https://www.unrealengine.com/de)
 [![Role](https://img.shields.io/badge/Role-Lead%20Game%20Engineer_&_CoProducer-blue)](https://www.jannikkluge.com/#/about)
@@ -12,7 +12,7 @@ Developed within a **10-week production timeframe** as part of the *School4Games
 
 🔗 **Project page:** https://www.jannikkluge.com/#/projects/EverWrestle  
 🌐 **Portfolio:** https://www.jannikkluge.com
-
+ 
 ---
 
 ## About the Game
@@ -27,3 +27,52 @@ Key features:
 - Ragdoll reactions triggered by hits, falls, and hazards  
 - Vertical level progression with checkpoints and death zones  
 - Round-based scoring system rewarding progress and sabotage
+
+---
+
+## My Role
+
+I worked as **Game Engineer** in a team of 8 people, contributing across gameplay systems, UI, performance optimization, and production pipelines.
+
+### Core Responsibilities
+- 
+
+---
+
+## Teamwork, Time Pressure & Technical Growth
+
+This project marked my **first experience developing a multiplayer physics game under strict production constraints** while collaborating closely with another developer.  
+Within the 10-week timeframe, clear task separation, constant communication, and shared ownership of core systems were essential to delivering a stable and playable build.
+
+A major technical challenge was maintaining **consistent and predictable physics behavior in a multiplayer environment**.  
+Working with Chaos Physics and network replication required extensive debugging and experimentation to ensure interactions like grabbing, throwing, and ragdoll reactions remained responsive and fair for all players.
+
+The project reinforced an important lesson: **systems must be designed with constraints in mind from the start**.  
+Networking, physics determinism, and gameplay readability influenced many architectural decisions, shaping how mechanics, abilities, and player interactions were implemented.
+
+---
+
+## Tools & Technologies
+
+- **Unreal Engine 5.6.1** – Core engine and scene system  
+- **C++** – Gameplay logic and systems  
+- **Blueprint** - UI  
+- **Perforce** – Version control and collaboration  
+
+More tools and engines I work with:  
+➡️ https://www.jannikkluge.com/#/tools-and-engines
+
+---
+
+## Play the Game
+
+You can find more information, downloads, and the itch.io demo here:  
+➡️ https://s4g.itch.io/everwrestle
+
+---
+
+## Contact
+
+🌐 Portfolio: https://www.jannikkluge.com  
+📧 Email: *contact@jannikkluge.com*  
+💼 GitHub: https://github.com/prayyOnIntelliJ
