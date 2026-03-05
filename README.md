@@ -36,6 +36,7 @@ I worked as **Lead Game Engineer** and **Co Producer** in a team of 8 people, co
 
 ### Core Responsibilities
 - Implemented the [core gameplay loop](https://github.com/prayyOnIntelliJ/EverWrestle/blob/main/Source/EverWrestle/EverWrestleGameMode.cpp), structuring the full match flow from **Lobby → Map → Point Distribution → Next Round → Final Victory**
+- Implemented a [Checkpoint](https://blueprintue.com/blueprint/pfg1u6l-/) and [Finish Line](https://blueprintue.com/blueprint/0m9zdik2/) system to track player progress during races and reliably determine round winners
 - Developed [Moving Objects](https://github.com/prayyOnIntelliJ/EverWrestle/blob/main/Source/EverWrestle/EverWrestleMovingObject.cpp), as well as multiple **environment hazards**, including the [Bear Trap](https://github.com/prayyOnIntelliJ/EverWrestle/blob/main/Source/EverWrestle/EverWrestleBearTrap.cpp), [Crush Trap and Spear Trap](https://github.com/prayyOnIntelliJ/EverWrestle/blob/main/Source/EverWrestle/EverWrestleMovingTrap.cpp), integrating them into the physics-based gameplay
 - Designed and implemented the **complete UI system**, including multiplayer lobby interfaces such as [Create Lobby](https://blueprintue.com/blueprint/8dtppar4/), [Find Lobby](https://blueprintue.com/blueprint/0alxkxji/), and **Join Lobby**
 - Built a [custom session subsystem](https://github.com/prayyOnIntelliJ/EverWrestle/blob/main/Source/EverWrestle/AdvancedSessionSubsystem.cpp) providing helper functionality for multiplayer features like **Create Session**, **Find Sessions**, and session management
